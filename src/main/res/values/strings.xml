@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TechWare Manager</string>
+    <string name="add_panel_title">Add a new component</string>
+    <string name="edit_panel_title">Editing </string>
+    <string name="inspect_panel_title">Details</string>
+    <string name="title_activity_inspect_component">InspectComponentActivity</string>
+</resources>

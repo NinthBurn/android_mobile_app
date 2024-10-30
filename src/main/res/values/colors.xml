@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#99ff66</color>
+    <color name="holo_green_lighter">#f9ffe6</color>
+    <color name="holo_green_light">#e6ff99</color>
+    <color name="mint_light">#f0fff0</color>
+    <color name="mint_lighter">#f4fff4</color>
+    <color name="mint_dark">#edffe9</color>
+    <color name="greenTitlePanel">#cbffb3</color>
+</resources>
