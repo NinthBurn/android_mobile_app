@@ -26,7 +26,7 @@ public class ComputerComponentRepository {
     }
 
     public boolean remove(int id) {
-        if(components.containsKey(id))
+        if(!components.containsKey(id))
             return false;
 
         components.remove(id);
